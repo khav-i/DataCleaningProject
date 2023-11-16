@@ -13,4 +13,4 @@
 |№|Название (ссылка)|Описание|Комментарий|
 |-|-|-|-|
 |1|[Статистические методы поиска выбросов](https://github.com/khav-i/DataCleaningProject/blob/master/outliers_lib/README.md)|Проект по созданию собственной библиотеки функций для поиска выбросов в данных|Работа с источниками, программирование на python.|
-|2|[Проект по очистке данных]([https://github.com/khav-i/DataCleaningProject/blob/master/README.md](https://github.com/khav-i/DataCleaningProject/blob/master/data_cleaning_example.ipynb))|EDA-проект по исследованию и предобработке данных о квартирах в Москве|Работа с собственной библиотекой статистических функций. Также pandas, numpy, matplotlib, seaborn.|
+|2|[Проект по очистке данных](https://github.com/khav-i/DataCleaningProject/blob/master/data_cleaning_example.ipynb)|EDA-проект по исследованию и предобработке данных о квартирах в Москве|Работа с собственной библиотекой статистических функций. Также pandas, numpy, matplotlib, seaborn.|
